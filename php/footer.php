@@ -1,3 +1,4 @@
+<!--Footer with Email, phone, and linkedin. Contact box stays the same size-->
 <footer>
     <div class="footer__fullBox">
         <div class="footer__contentBox">
