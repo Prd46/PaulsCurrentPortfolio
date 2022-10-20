@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>blog</title>
+    <link rel="stylesheet" href="normalize">
+    <link rel="stylesheet" href="css/stylesheet.css">
+</head>
+<body>
+    <div class="page__load">
+        <h1 class="bigname">Paul DiGerolamo</h1>
+    </div>
+    <!--Header contains hamburger menu-->
+    <header>
+        <div class="header__fullbox" id="top">
+            <div class="header__contentbox">
+                <div class="header__nameBox">
+                <h1 class="header__name">PAUL DIGEROLAMO</h1>
+                </div>
+                <div class="header__menuListings">
+                        <!--Hamburger menu will open up top, turns into horizontal header on smaller screens-->
+                    <a href="index.html" class="header__menuButton">Home</a>
+                    <a href="blog.html" class="header__menuButton midButton">Blog</a>
+                    <div class="header__nestedName"><h1 class="header__menuButton innerNest">PAUL DIGEROLAMO</h1></div>
+                    <a href="portfolio.html" class="header__menuButton midButton">Designs</a>
+                    <a href="resume.html" class="header__menuButton">Resume</a>
+                </div>
+                <button class="header__hamburger"><img class="header__hamburger" src="media/menuButton.png" alt="site menu" /></button>
+            </div>
+            </div>
+    </header> 
+    <main class="main" id="main">
+    <div class="main__heading">
+        <h2>Post Archive</h2>
+</div>
+</main> 
+<!--Filter buttons-->
+    <div class="blog__buttons">
+        <button class="blogButton js-all">All</button>
+        <button class="blogButton js-art">Art</button>
+        <button class="blogButton js-animation">Animation</button>
+        <button class="blogButton js-design">Designs</button>
+        <button class="blogButton js-editing">Editing</button>
+        <button class="blogButton js-music">Music</button>
+        <button class="blogButton js-photos">Photos</button>
+        <button class="blogButton js-schoolwork">School</button>
+    </div>
+<!--Contains all posts and will be filtered with javascript-->
+    <div class="blog__postArea js-postArea">
+        <a href="plasticplanet.html" class="all music art animation editing fadeIn"><img class="blog__icon" src="media/plasticplanet.png" alt="post icon" /></a>
+        <a href="yci.html" class="all art animation music fadeIn"><img class="blog__icon" src="media/sleepy.jpg" alt="post icon" /></a>
+        <a href="sp.html" class="all schoolWork designs fadeIn"><img class="blog__icon" src="media/pupypyicopy.png" alt="post icon" /></a>
+        <a href="na.html" class="all art fadeIn"><img class="blog__icon" src="media/lampifeat.png" alt="post icon" /></a>
+        <a href="trt.html" class="all editing music schoolWork fadeIn"><img class="blog__icon" src="media/aaufeat.png" alt="post icon" /></a>
+        <a href="wr.html" class="all photography fadeIn"><img class="blog__icon" src="media/wrf.jpg" alt="post icon" /></a>
+    </div>
+<!--Footer with Email, phone, and linkedin. Contact box stays the same size-->
+<footer>
+    <div class="footer__fullBox">
+        <div class="footer__contentBox">
+            <h2>&#169; Paul DiGerolamo, 2022</h2>
+            <div class="footer__contacts">
+                <a href="mailto:Prd46@drexel.edu"><img src="media/mailIcon.png" alt="mail" class="footer__icon" /></a>
+                <a href="tel:6098326844"><img src="media/phoneIcon.png" alt="phone" class="footer__icon" /></a>
+                <a href="https://www.linkedin.com/in/prd46/" target="_blank"><img src="media/linedinIcon.png" alt="linkedin" class="footer__icon" /></a>
+            </div>
+        </div>
+    </div>
+</footer>
+<script src="scripts/blogApp.js"></script>
+</body>
+</html>

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>wandering regrets</title>
+    <link rel="stylesheet" href="normalize">
+    <link rel="stylesheet" href="css/stylesheet.css" media="screen">
+</head>
+<body>
+    <!--Header (navigation and name)-->
+ <!--Header contains my name, which can be clicked to return home, and a menu-->
+ <header>
+    <div class="header__fullbox" id="top">
+        <div class="header__contentbox">
+            <div class="header__nameBox">
+            <h1 class="header__name">PAUL DIGEROLAMO</h1>
+            </div>
+            <div class="header__menuListings">
+                    <!--Hamburger menu will open up top, turns into horizontal header on smaller screens-->
+                <a href="index.html" class="header__menuButton">Home</a>
+                <a href="blog.html" class="header__menuButton midButton">Blog</a>
+                <div class="header__nestedName"><h1 class="header__menuButton innerNest">PAUL DIGEROLAMO</h1></div>
+                <a href="portfolio.html" class="header__menuButton midButton">Designs</a>
+                <a href="resume.html" class="header__menuButton">Resume</a>
+            </div>
+            <button class="header__hamburger"><img class="header__hamburger" src="media/menuButton.png" alt="site menu" /></button>
+        </div>
+        </div>
+</header> 
+<!--Once entering posts, images and videos are placed between paragraphs-->    
+    <h2>Wandering Regrets</h2>
+<p class="freeform paragraph">The only photography class I’ve taken was taught in black and white, 
+    so that is what I am most familiar with. That’s definitely not a 
+    bad thing though, because I’ve gotten really good at it. I 
+    particularly enjoy using the lack of color to put emphasis on other 
+    design features of each photo, such as the geometry and framing, 
+    which is the main variable in this set. I had gone out with my friend 
+    Sydney to capture some, since she is taking the class this term and 
+    I wanted to explore the limits of contrast with her. Despite the 
+    melancholic demeanor of these few, we had a good time.</p>
+<p class="freeform paragraph">
+    That being said, the theming behind this little collection is based 
+    on some thoughts that pass through my head at times, like weary 
+    travelers looking for a place to stay for a while. I take them in 
+    and turn them into something beautiful. It’s an interesting double 
+    standard, how most of the joy in my life comes from my creative 
+    outlets, photography included, yet my main inspiration is rooted 
+    in despair. Perhaps it’s the thought that my free-flowing ambitions 
+    aren’t enough on their own, as a career. “Visions Imprisoned,” 
+    I feel, best captures this emotion, for my will to create will 
+    need to be shelled up into the inflexible foundation of societal 
+    worth, an artistic eye peering through metal bars. Enjoy.</p>   
+    <div>
+<p>(Titles from top down: Fractures, Lost, Punctured, Visions Imprisoned, Catharsis, Runaways)</p>
+    <div class="main__imageGallery">
+        <picture>
+            <source media="(min-width: 450px)" srcset="media/fractures.jpg" />
+            <source media="(max-width: 450px)" srcset="media/fracturesSmall.jpg" />
+            <img class="main__featuredImage"  src="media/fractures.jpg" alt="Fractures">
+        </picture>
+        <picture>
+            <source media="(min-width: 450px)" srcset="media/lost.jpg" />
+            <source media="(max-width: 450px)" srcset="media/lostSmall.jpg" />
+            <img class="main__featuredImage"  src="media/lost.jpg" alt="Lost">
+        </picture>
+        <picture>
+            <source media="(min-width: 450px)" srcset="media/punctured.jpg" />
+            <source media="(max-width: 450px)" srcset="media/puncturedSmall.jpg" />
+            <img class="main__featuredImage"  src="media/punctured.jpg" alt="Punctured">
+        </picture>
+        <picture>
+            <source media="(min-width: 450px)" srcset="media/visions-imprisoned.jpg" />
+            <source media="(max-width: 450px)" srcset="media/visions-imprisonedSmall.jpg" />
+            <img class="main__featuredImage"  src="media/visions-imprisoned.jpg" alt="Visions Imprisioned">
+        </picture>
+        <picture>
+            <source media="(min-width: 450px)" srcset="media/catharsis.jpg" />
+            <source media="(max-width: 450px)" srcset="media/catharsisSmall.jpg" />
+            <img class="main__featuredImage"  src="media/catharsis.jpg" alt="Catharsis">
+        </picture>
+        <picture>
+            <source media="(min-width: 450px)" srcset="media/runaways.jpg" />
+            <source media="(max-width: 450px)" srcset="media/runawaysSmall.jpg" />
+            <img class="main__featuredImage"  src="media/runaways.jpg" alt="Runaways">
+        </picture>
+        </div>
+    </div>
+    <!--Footer-->
+    <footer>
+        <div class="footer__fullBox">
+            <div class="footer__contentBox">
+                <h2>&#169; Paul DiGerolamo, 2022</h2>
+                <div class="footer__contacts">
+                    <a href="mailto:Prd46@drexel.edu"><img src="media/mailIcon.png" alt="mail" class="footer__icon" /></a>
+                    <a href="tel:6098326844"><img src="media/phoneIcon.png" alt="phone" class="footer__icon" /></a>
+                    <a href="https://www.linkedin.com/in/prd46/" target="_blank"><img src="media/linedinIcon.png" alt="linkedin" class="footer__icon" /></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="scripts/app.js"></script>  
+</body>
+</html>
