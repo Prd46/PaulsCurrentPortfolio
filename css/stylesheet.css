@@ -83,16 +83,27 @@ footer{
     font-style: normal;
 
 }
+@font-face {
+    font-family: 'Inika';
+    src: url('../fonts/inika-regular-webfont.woff2') format('woff2'),
+        url('../fonts/inika-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
    /*text attributes*/
 
 
-h1, h2, ul, ol {
+h1, h2{
     font-family: 'oswald', Arial, Helvetica, sans-serif;  
+                }
+
+ul, ol {
+    font-family: 'Inika', Arial, Helvetica, sans-serif;  
                 }
 h1, h2, h3{
     color:white;
     font-family: 'staatliches', Arial, Helvetica, sans-serif; 
-    font-size: 1.5;
+    font-size: 2.25rem;
     margin: 1rem;
     text-align: center;
     text-shadow: .25rem .25rem .15rem black;
@@ -102,9 +113,9 @@ h1{
 }  
 p {
     color: white;
-    line-height: 2rem;
-    font-family: 'oswald', Arial, Helvetica, sans-serif; 
-    font-size: 1.5rem;
+    line-height: 3rem;
+    font-family: 'Inika', Arial, Helvetica, sans-serif; 
+    font-size: 2rem;
     font-style: normal;
     font-weight: lighter;
     margin: 1rem 1rem;
@@ -130,14 +141,14 @@ p.paragraph {
 }
 .resume__sectionHeader{
     text-align: left;
-    line-height: 2rem;
+    line-height: 2.3rem;
 }
 h3.resume__sectionHeader{
     font-size: 2rem;
 }
 .resume__bullet{
-    font-size: 1.2rem;
-    line-height: 2rem;
+    font-size: 1.5rem;
+    line-height: 2.3rem;
 }
     /*buttons*/
 :link{
@@ -537,6 +548,10 @@ h1.bigname{
     p.freeform{
         margin: 1rem 4rem;
     }
+    p{
+        font-size: 1.75rem;
+        line-height: 3rem;
+    }
 
 }@media screen and (max-width: 500px){
     .main__reelBlocker{
@@ -549,6 +564,10 @@ h1.bigname{
     p.paragraph{
         margin: 2rem 2rem;
     }
+    p{
+        font-size: 1.5rem;
+        line-height: 2rem;
+    }
     .horizontalVideo{
         width: 100%;
     }
@@ -559,6 +578,9 @@ h1.bigname{
 @media screen and (max-width: 350px){
     p.freeform{
         margin: 1rem .5rem;
+    }
+    p{
+        font-size: 1.5rem;
     }
     .smallIcon{
         opacity: 0;
