@@ -1,3 +1,7 @@
+<?php if (!isset($page_name)) {
+  $page_name = 'The Road Trailer'; // Gives a value if page name is missing
+}
+?>
 <?php include "php/header.php" ?>
 <h2>Audio Production and Post- Movie Trailer Final</h2>
     <a href="https://www.youtube.com/watch?v=NtaJKJUwpd0&ab_channel=Anithearcticfox" target="_blank"><img class="main__featuredImage" src="media/trtThumb.jpg" /></a>

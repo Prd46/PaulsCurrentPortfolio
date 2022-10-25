@@ -1,3 +1,7 @@
+<?php if (!isset($page_name)) {
+  $page_name = 'Portfolio'; // Gives a value if page name is missing
+}
+?>
 <?php include "php/header.php" ?>
 <main>
     <h1>Case Studies</h1>

@@ -1,3 +1,7 @@
+<?php if (!isset($page_name)) {
+  $page_name = 'Resume'; // Gives a value if page name is missing
+}
+?>
 <?php include "php/header.php" ?>
 <main class="resume__resume">
     <div class="resume__header">

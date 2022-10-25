@@ -1,3 +1,7 @@
+<?php if (!isset($page_name)) {
+  $page_name = 'Study Pup'; // Gives a value if page name is missing
+}
+?>
 <?php include "php/header.php" ?>
 <h2>Thinking in Product Design - Study Pup</h2>
     <picture>

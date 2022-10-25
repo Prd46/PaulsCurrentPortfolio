@@ -1,3 +1,7 @@
+<?php if (!isset($page_name)) {
+  $page_name = 'Wandering Regrets'; // Gives a value if page name is missing
+}
+?>
 <?php include "php/header.php" ?>
 <!--Once entering posts, images and videos are placed between paragraphs-->    
 <h2>Wandering Regrets</h2>
