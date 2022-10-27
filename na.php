@@ -1,5 +1,5 @@
 <?php if (!isset($page_name)) {
-  $page_name = 'Neon Ani'; // Gives a value if page name is missing
+  $page_name = 'Lava Lamp Ani'; // Gives a value if page name is missing
 }
 ?>
 <?php include "php/header.php" ?>

@@ -17,7 +17,7 @@ const card = document.querySelector('.main__postCard');
 let reelPosition = 3; 
 console.log(reelPosition);
 //reel position changes as arrows are clicked, inner HTML changes based on number
-leftArrow.addEventListener('click', function(){
+leftArrow.addEventListener('click', function(event){
     if (reelPosition <= 1){
         reelPosition = 7;
     }
@@ -42,7 +42,7 @@ leftArrow.addEventListener('click', function(){
         posts.innerHTML = '<div class="main__post smallIcon icon"><a href="trt.php" class="posthref"><img class="main__icon post1 smallIcon fadeInSmall" src="media/aaufeat.png" alt="post icon" /></a></div><div class="main__post medIcon icon"><a href="wr.php" class="posthref"><img class="main__icon post2 medIcon fadeInMed" src="media/wrf.jpg" alt="post icon" /></a></div><div class="main__post largeIcon icon"><a href="plasticplanet.php" class="posthref"><img class="main__icon post3 largeIcon fadeIn" src="media/plasticplanet.png" alt="post icon" /></a></div><div class="main__post medIcon icon"><a href="yci.php" class="posthref"><img class="main__icon post4 medIcon fadeInMed" src="media/sleepy.jpg" alt="post icon" /></a></div><div class="main__post smallIcon icon"><a href="sp.php" class="posthref"><img class="main__icon post5 smallIcon fadeInSmall" src="media/pupypyicopy.png" alt="post icon" /></a></div><div class="main__post off icon"<a href="na.php" class="posthref"><img class="main__icon postNull smallIcon" src="media/lampifeat.png" alt="post icon" /></a></div>';
         card.innerHTML = '<h1>Plastic Planet</h1><p>In addition to creating one of my favorite art pieces ever, this song of mine... </p><a href="plasticplanet.php" class="main__readMore">Read More</a>'
         }
-    })
+    });
     
 rightArrow.addEventListener('click', function(event){
     if (reelPosition >= 6){
@@ -69,4 +69,4 @@ rightArrow.addEventListener('click', function(event){
         posts.innerHTML = '<div class="main__post smallIcon icon"><a href="trt.php" class="posthref"><img class="main__icon post1 smallIcon fadeInSmall" src="media/aaufeat.png" alt="post icon" /></a></div><div class="main__post medIcon icon"><a href="wr.php" class="posthref"><img class="main__icon post2 medIcon fadeInMed" src="media/wrf.jpg" alt="post icon" /></a></div><div class="main__post largeIcon icon"><a href="plasticplanet.php" class="posthref"><img class="main__icon post3 largeIcon fadeIn" src="media/plasticplanet.png" alt="post icon" /></a></div><div class="main__post medIcon icon"><a href="yci.php" class="posthref"><img class="main__icon post4 medIcon fadeInMed" src="media/sleepy.jpg" alt="post icon" /></a></div><div class="main__post smallIcon icon"><a href="sp.php" class="posthref"><img class="main__icon post5 smallIcon fadeInSmall" src="media/pupypyicopy.png" alt="post icon" /></a></div><div class="main__post off icon"<a href="na.php" class="posthref"><img class="main__icon postNull smallIcon" src="media/lampifeat.png" alt="post icon" /></a></div>';
         card.innerHTML = '<h1>Plastic Planet</h1><p>In addition to creating one of my favorite art pieces ever, this song of mine... </p><a href="plasticplanet.php" class="main__readMore">Read More</a>'
         }
-    })
+    });

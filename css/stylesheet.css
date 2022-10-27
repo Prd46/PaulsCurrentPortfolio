@@ -52,6 +52,7 @@ footer{
 .main__featuredImage{
     border: double 2px black;
     box-shadow: 0 0 2rem var(--glow);
+    cursor: zoom-in;
     display: block;
     margin: 1rem auto;
     max-width: 70%;
@@ -485,8 +486,6 @@ h1.bigname{
 .fadeInSmall{
     animation: fadeInSmallAnim .2s ease-in forwards;
 }
-
-
 
 /*Responsive adjustments*/
 @media screen and (min-width: 1000px){
