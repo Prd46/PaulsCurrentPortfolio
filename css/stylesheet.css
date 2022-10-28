@@ -244,6 +244,7 @@ button:hover{
 /*Arrows*/
 .arrow{
     height: auto;
+    margin: 0 .25rem;
     max-width: 100%;
     transition: opacity .3s ease-in-out;
     z-index: 7;
@@ -551,8 +552,15 @@ h1.bigname{
         font-size: 1.75rem;
         line-height: 3rem;
     }
+    .blog__icon{
+        height: 11rem;
+        width: 11rem;
+    }
 
 }@media screen and (max-width: 500px){
+    body{
+        background-image: radial-gradient(rgb(0, 0, 79), rgb(0, 0, 3));
+    }
     .main__reelBlocker{
         display: block;
         margin: 0 auto;
@@ -573,6 +581,10 @@ h1.bigname{
     .resume__resume{
         margin: 1rem auto;
     }
+    .blog__icon{
+        height: 7rem;
+        width: 7rem;
+    }
 }
 @media screen and (max-width: 350px){
     p.freeform{
@@ -592,8 +604,8 @@ h1.bigname{
         width: 12rem;
     }
     .blog__icon{
-        height: 10rem;
-        width: 10rem;
+        height: 5rem;
+        width: 5rem;
     }
 }
 @media screen and (min-width: 1800px){

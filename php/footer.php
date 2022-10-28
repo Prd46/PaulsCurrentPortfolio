@@ -13,6 +13,6 @@
     </div>
     <p class="oldVersion"><a href="221/index.html">Version 1</a></p>
 </footer>
-<script src="scripts/app.js"></script>
+<script src="scripts/menuapp.js"></script>
 </body>
 </html>

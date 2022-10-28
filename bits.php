@@ -13,7 +13,7 @@
     allowfullscreen>
     </iframe>
 <br />
-    <p>
+    <p class="freeform paragraph">
         While I’ve done a lot of work with music before, this was the first time fully 
         writing out songs for ukulele, and one of the few instances where I write words 
         to my music too. I originally just wanted to make one song, Buried in the Sand, 
@@ -21,8 +21,8 @@
         (I went with a friend from my summer job at an escape room), I decided to make 
         a full album, and boy am I glad that I did.</p>
         
-        <img class="gallery" src="media/BITScover.png" alt="Buried in the sand album cover image">
-    <p>The whole album is an exploratory work that uses the metaphor of being stranded 
+        <img class="main__featuredImage" src="media/BITScover.png" alt="Buried in the sand album cover image">
+    <p class="freeform paragraph">The whole album is an exploratory work that uses the metaphor of being stranded 
         on an island to represent my current state of mind, at least at the time of 
         writing these songs. I was optimistic at the start of my voyage into adulthood, 
         but quickly realized I was largely unprepared for what was in store. The latter
@@ -31,8 +31,8 @@
         the darker parts of my life and conscious are where inspiration strikes the 
         hardest, but I do have a positive upturn at the very end, as I had accepted 
         this new life of mine, holding out hope for my future.</p>
-    <img class="gallery" src="media/uke.webp" alt="Buried in the sand album cover image">
-    <p>
+    <img class="main__featuredImage" src="media/uke.webp" alt="Buried in the sand album cover image">
+    <p class="freeform paragraph">
         I was able to complete the entire album in just over two months this summer, 
         while staying at my grandparents’ shore house in Ocean City for my work. 
         Between spending so much time with my grandparents, having a blast at my 

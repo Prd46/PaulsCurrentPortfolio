@@ -42,4 +42,5 @@
                 <a href="sp.php" class="main__readMore">Read More</a>
             </div>
 </main> 
+<script src="scripts/reelapp.js"></script>
 <?php include "php/footer.php" ?>
