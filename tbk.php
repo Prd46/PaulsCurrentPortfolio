@@ -6,14 +6,15 @@
 <!--Once entering posts, images and videos are placed between paragraphs-->
 <h2 class="name">The Big Kids</h2>
     <br />
+    <div class="main__featuredVideo">
     <iframe 
-    width="375" 
-    height="210" 
+    width="560" 
+    height="315" 
     src="https://www.youtube.com/embed/ciCv54bjZOc" 
     title="YouTube video player" 
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen></iframe>
-
+</div>
 <p class="freeform paragraph">(BE ADVISED: This video contains some intense themes and a frame that may be sensitive for some viewers)
     This was my final animation project for my Design for Media class, the requirements being very simple: 
     just make it mostly black and white and be creative with your designs. I took it as an opportunity to 

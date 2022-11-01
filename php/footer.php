@@ -14,5 +14,6 @@
     <p class="oldVersion"><a href="221/index.html">Version 1</a></p>
 </footer>
 <script src="scripts/menuapp.js"></script>
+<script src="scripts/imageapp.js"></script>
 </body>
 </html>

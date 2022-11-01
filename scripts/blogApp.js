@@ -11,7 +11,7 @@ const music = document.querySelector('.js-music');
 const photos = document.querySelector('.js-photos');
 const schoolwork = document.querySelector('.js-schoolwork');*/
 
-const allButtons = document.querySelectorAll('.js-blogButton')
+const allButtons = document.querySelectorAll('.js-blogButton');
 //console.log(allTypes);
 
 //each button adds the lit class to highlight itself while the inner HTML of the post area changes for each filter manually.

@@ -7,7 +7,7 @@
     <picture>
         <source media="(min-width: 450px)" srcset="media/lampi.jpg" />
         <source media="(max-width: 450px)" srcset="media/lampiSmall.jpg" />
-        <img class="main__featuredImage" src="media/lampi.jpg" alt="Drawing of Ani with Lava Lamp Eyes">
+        <img class="main__featuredImage js-img" src="media/lampi.jpg" alt="Drawing of Ani with Lava Lamp Eyes">
     </picture>
     <p class="freeform paragraph">
         This is one of my favorite art ideas from recent years. It's my titular character Ani 

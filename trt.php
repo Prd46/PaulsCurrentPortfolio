@@ -4,7 +4,17 @@
 ?>
 <?php include "php/header.php" ?>
 <h2>Audio Production and Post- Movie Trailer Final</h2>
-    <a href="https://www.youtube.com/watch?v=NtaJKJUwpd0&ab_channel=Anithearcticfox" target="_blank"><img class="main__featuredImage" src="media/trtThumb.jpg" /></a>
+    <div class="main__featuredVideo">
+    <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/NtaJKJUwpd0" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+    </iframe>
+    </div>
 <p class="freeform paragraph"> This was my favorite class to take so far, as it had uncovered my hidden skills in audio design.
     I've had prior experience in mixing audio before, through my video editing and song creation, 
     but never to the extent that I did in this class. I would love to share my sound effects project 

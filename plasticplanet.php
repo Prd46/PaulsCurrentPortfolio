@@ -5,7 +5,17 @@
 <?php include "php/header.php" ?>
     <!--Once entering posts, images and videos are placed between paragraphs-->
     <h2>Plastic Planet</h2>
-        <a href="https://www.youtube.com/watch?v=BTWkbp4vtuk&ab_channel=Anithearcticfox" target="_blank"><img class="main__featuredImage" src="media/plasticPlanetThumb.jpg"></a>
+    <div class="main__featuredVideo">
+    <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/BTWkbp4vtuk" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
         <p class="freeform paragraph">In addition to creating one of my favorite art pieces ever, this song 
             of mine, that had been started over a year ago, finally came together 
             with a push of inspiration. I was only really missing an ending that 

@@ -6,12 +6,14 @@
     <!--Once entering posts, images and videos are placed between paragraphs-->
     <h2>Buried in the Sand</h2>
     <br />
-    <iframe width="375" height="210" 
+    <div class="main__featuredVideo">
+    <iframe width="560" height="315" 
     src="https://www.youtube.com/embed/videoseries?list=PL-jCBTfKSZnimP37wH8y2JYBKv5zg6wdz" 
     title="YouTube video player" 
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
     </iframe>
+    </div>
 <br />
     <p class="freeform paragraph">
         While I’ve done a lot of work with music before, this was the first time fully 
