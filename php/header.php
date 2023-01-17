@@ -14,7 +14,7 @@
         <div class="page__load">
         <img src="media/UItextLogo.png" class="logoImage" alt="loading logo" />
     </div>
-   <!-- <div class="js-displayBox">
+   <!-- <div class="displayBox js-displayBox">
         <img class="zoomer" src="media/1.jpg" alt="image placeholder">
         <p class="displayCaption js-displayCaption">Test caption</p>
     </div> -->

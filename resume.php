@@ -19,6 +19,21 @@
         <p class="resume__sectionHeader">Bachelor of Science, User Experience and Interaction Design, Anticipated Graduation: June 2025, GPA: 3.9</p>
     </div>      
     <div class="resume__section">
+        <h3 class="resume__sectionHeader">Work Experience</h3>
+        <p class="resume__sectionHeader">Oracle, Philadelphia Pennsylvania, Technical Writing Intern, March to September 2022</p>
+        <ul>
+            <li class="resume__bullet">Analyzed and drafted documentation for highly customizable application, Primavera Unifier</li>
+            <li class="resume__bullet">Assisted coworkers and new-hires with features and functionality of authoring and publication technology</li>
+            <li class="resume__bullet">Regression tested documentation and enhancements through thorough product analysis</li>
+        </ul>
+        <p class="resume__sectionHeader">Liberty Escape Rooms, Ocean City New Jersey, Game Master, June to August 2021</p>
+        <ul>
+            <li class="resume__bullet">Supervised mechanical functions of three separate escape rooms to ensure quality gameplay for groups</li>
+            <li class="resume__bullet">Developed situation-dependent clues and hints to create more thrilling and challenging experiences for players</li>
+            <li class="resume__bullet">Built enthusiasm for games and company through encouragement and personal suggestions during sales</li>
+        </ul>
+        <div class="resume__section">
+    <div class="resume__section">
         <h3 class="resume__sectionHeader">Skills</h3>
         <ul>
             <li class="resume__bullet">Digital design, prototyping, audio production, technical writing, documentation, product analysis, video editing, animation, music, photography</li>
@@ -50,22 +65,7 @@
             <li class="resume__bullet">User Experience Design</li>
             <li class="resume__bullet">Scripting for IDM I, II</li>
         </ul>
-    </div>   
-    <div class="resume__section">
-        <h3 class="resume__sectionHeader">Work Experience</h3>
-        <p class="resume__sectionHeader">Oracle, Philadelphia Pennsylvania, Technical Writing Intern, March to September 2022</p>
-        <ul>
-            <li class="resume__bullet">Analyzed and drafted documentation for highly customizable application, Primavera Unifier</li>
-            <li class="resume__bullet">Assisted coworkers and new-hires with features and functionality of authoring and publication technology</li>
-            <li class="resume__bullet">Regression tested documentation and enhancements through thorough product analysis</li>
-        </ul>
-        <p class="resume__sectionHeader">Liberty Escape Rooms, Ocean City New Jersey, Game Master, June to August 2021</p>
-        <ul>
-            <li class="resume__bullet">Supervised mechanical functions of three separate escape rooms to ensure quality gameplay for groups</li>
-            <li class="resume__bullet">Developed situation-dependent clues and hints to create more thrilling and challenging experiences for players</li>
-            <li class="resume__bullet">Built enthusiasm for games and company through encouragement and personal suggestions during sales</li>
-        </ul>
-        <div class="resume__section">
+    </div> 
             <h3 class="resume__sectionHeader">Honors and Awards</h3>
             <ul>
                 <li class="resume__bullet">Founder’s Scholarship, Drexel University, 2020- present</li>

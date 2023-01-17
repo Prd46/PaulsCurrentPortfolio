@@ -7,9 +7,9 @@
     <h1>Case Studies</h1>
     <p>Here’s where you’ll see my journey through learning web design at Drexel.</p>
         <div class="portfolio__navigation" id="term1" >
-            <a href="#term1"><button class="portfolio__button">Term 1</button></a>
-            <a href="#term2"><button class="portfolio__button">Term 2</button></a>
-            <a href="#term3"><button class="portfolio__button">Term 3</button></a>
+            <a href="#term1"><button class="portfolio__button">Case 1</button></a>
+            <a href="#term2"><button class="portfolio__button">Case 2</button></a>
+            <a href="#term3"><button class="portfolio__button">Case 3</button></a>
             <a href="#top"><button class="portfolio__button">Top</button></a>
         </div>
     <h2>Case 1: Chorus Redesign, Fall 2020-2021</h2>
@@ -156,17 +156,6 @@
                 final project for my Interaction Design class, and perhaps I can fully realize 
                 it in the years to come at Drexel.</p>
 
-                <img class="main__featuredImage" src="media/task.webp" alt="Original task flow for Dine with Dragons">
-            <p class="freeform paragraph">My initial inspiration / example service to work from was Venmo, and I had to 
-                pick it apart to isolate a singular task flow that a person would go through when 
-                using it. The only problem was that I hadn’t ever used Venmo before starting this 
-                project, only knowing that it was specifically used for paying other people, and 
-                I ended up missing some steps in the task flow. As a result, my own app design 
-                had to be built more off of my own ingenuity, imagining how it would have to 
-                function as a legitimate product, and there ended up being more steps than 
-                necessary. However, for the main stand-out function of the app, allowing multiple 
-                people to join in on a single transaction, it panned out very smoothly in the end</p>
-
             <img class="main__featuredImage" src="media/flow.webp" alt="final task flow for Dine with Dragons">
             <p class="freeform paragraph">My initial inspiration / example service to work from was Venmo, and I had to 
                 pick it apart to isolate a singular task flow that a person would go through when 
@@ -176,7 +165,7 @@
                 had to be built more off of my own ingenuity, imagining how it would have to 
                 function as a legitimate product, and there ended up being more steps than 
                 necessary. However, for the main stand-out function of the app, allowing multiple 
-                people to join in on a single transaction, it panned out very smoothly in the end</p>
+                people to join in on a single transaction, it panned out very smoothly in the end.</p>
 
             <img class="main__featuredImage" src="media/dwdanims.jpg" alt="guiding animation frames for Dine with Dragons demo render">
             <p class="freeform paragraph">Where my creative ability really took flight was in the animation process. Seeing 

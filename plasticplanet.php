@@ -5,7 +5,7 @@
 <?php include "php/header.php" ?>
     <!--Once entering posts, images and videos are placed between paragraphs-->
     <h2>Plastic Planet</h2>
-    <div class="main__featuredVideo">
+    <div class="main__iframeVideo">
     <iframe 
     width="560" 
     height="315" 

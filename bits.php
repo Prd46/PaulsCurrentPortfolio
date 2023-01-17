@@ -6,7 +6,7 @@
     <!--Once entering posts, images and videos are placed between paragraphs-->
     <h2>Buried in the Sand</h2>
     <br />
-    <div class="main__featuredVideo">
+    <div class="main__iframeVideo">
     <iframe width="560" height="315" 
     src="https://www.youtube.com/embed/videoseries?list=PL-jCBTfKSZnimP37wH8y2JYBKv5zg6wdz" 
     title="YouTube video player" 

@@ -4,7 +4,7 @@
 ?>
 <?php include "php/header.php" ?>
 <h2>Audio Production and Post- Movie Trailer Final</h2>
-    <div class="main__featuredVideo">
+    <div class="main__iframeVideo">
     <iframe 
     width="560" 
     height="315" 

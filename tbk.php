@@ -6,7 +6,7 @@
 <!--Once entering posts, images and videos are placed between paragraphs-->
 <h2 class="name">The Big Kids</h2>
     <br />
-    <div class="main__featuredVideo">
+    <div class="main__iframeVideo">
     <iframe 
     width="560" 
     height="315" 
