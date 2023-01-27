@@ -397,6 +397,15 @@ button:hover{
 .portfolio__button:active{
     background-color: var(--glass);
 }
+.portfolioIcon{
+    height: 20rem;
+    margin: .5rem;
+    max-width: 20rem;
+
+}
+
+
+
 /*Footer stuff*/
 .footer__contacts{
     display: flex;
@@ -615,6 +624,12 @@ h1.bigname{
         height: 11rem;
         width: 11rem;
     }
+    .portfolioIcon{
+        height: 15rem;
+        margin: .5rem;
+        width: 15rem;
+    
+    }
     .main__iframeVideo iframe{
         height: 15rem;
         width: 25rem;
@@ -652,6 +667,12 @@ h1.bigname{
         height: 7rem;
         width: 7rem;
     }
+    .portfolioIcon{
+        height: 10rem;
+        margin: .5rem;
+        width: 10rem;
+    
+    }
 }
 @media screen and (max-width: 350px){
     p.freeform{
@@ -673,6 +694,12 @@ h1.bigname{
     .blog__icon{
         height: 5rem;
         width: 5rem;
+    }
+    .portfolioIcon{
+        height: 8rem;
+        margin: .5rem;
+        width: 8rem;
+    
     }
 }
 @media screen and (min-width: 1800px){

@@ -37,22 +37,22 @@
         <h3 class="resume__sectionHeader">Skills</h3>
         <ul>
             <li class="resume__bullet">Digital design, prototyping, audio production, technical writing, documentation, product analysis, video editing, animation, music, photography</li>
-            <li class="resume__bullet">Creative Tools: Figma, Adobe Illustrator, AfterEffects, Audition, InVision, HTML5, CSS, Javascript, WordPress, Firealpaca, GarageBand, Krita, IMovie, Videoleap, Microsoft Office, Google Workspace</li>
+            <li class="resume__bullet">Creative Tools: Figma, Adobe Illustrator, AfterEffects, Audition, InVision, HTML5, CSS, Javascript, PHP, SQL, WordPress, Firealpaca, GarageBand, Krita, IMovie, Videoleap, Microsoft Office, Google Workspace</li>
         </ul>
     </div>
     <div class="resume__section">
         <h3 class="resume__sectionHeader">Design Experience</h3>
-        <p class="resume__sectionHeader">Dine With Dragons, Interaction Design (March - June 2021)</p>
+        <p class="resume__sectionHeader">Discord Account Settings, Microinteraction Design (September - December 2022)</p>
         <ul>
-            <li class="resume__bullet">Assessed task flow of Venmo to provide basis for Drexel themed commerce app</li>
-            <li class="resume__bullet">Designed QR based payment system that allows multiple people to pay for single transactions at once</li>
-            <li class="resume__bullet">Rendered high-fidelity interaction animations for main task flow of application</li>
+            <li class="resume__bullet">Assessed existing interactive qualities of Discord's Support Page for redesign opportunities</li>
+            <li class="resume__bullet">Developed intricate and eye-catching interaction animations with HTML, CSS, and Javascript</li>
+            <li class="resume__bullet">Revised and iterated components to account for all user actions and repair functionality issues</li>
         </ul>
-        <p class="resume__sectionHeader">ARTnews Redesign, User Interface Design II (January – March 2021)</p>
+        <p class="resume__sectionHeader">Progrecipes, Scripting for IDM II (September – December)</p>
         <ul>
-            <li class="resume__bullet">Reorganized header information display to eliminate confusion from multi-site format</li>
-            <li class="resume__bullet">Developed thematic display of article images to imitate paintings in museums</li>
-            <li class="resume__bullet">Standardized article browsing system to prioritize paintings and images</li>
+            <li class="resume__bullet">Designed effective user and internal webpages for content-heavy recipe website</li>
+            <li class="resume__bullet">Implemented backend framework for content management with PHP and SQL</li>
+            <li class="resume__bullet">Included additional filtering and presentational features for convenience and engagement in user experience</li>
         </ul>
     </div> 
     <div class="resume__section">
@@ -61,14 +61,14 @@
             <li class="resume__bullet">Web Design I, II</li>
             <li class="resume__bullet">User Interface Design I, II</li>
             <li class="resume__bullet">Interaction Design</li>
-            <li class="resume__bullet">Microinteractions</li>
+            <li class="resume__bullet">Microinteraction Design</li>
             <li class="resume__bullet">User Experience Design</li>
             <li class="resume__bullet">Scripting for IDM I, II</li>
         </ul>
     </div> 
             <h3 class="resume__sectionHeader">Honors and Awards</h3>
             <ul>
-                <li class="resume__bullet">Founder’s Scholarship, Drexel University, 2020- present</li>
+                <li class="resume__bullet">Founder’s Scholarship, Drexel University, 2020- 2022</li>
                 <li class="resume__bullet">Dean's List, Drexel University, 2020- 2022</li>
             </ul>
         </div>  

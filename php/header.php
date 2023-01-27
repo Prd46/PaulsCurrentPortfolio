@@ -30,7 +30,7 @@
                     <a href="index.php" class="header__menuButton">Home</a>
                     <a href="creations.php" class="header__menuButton midButton">Creations</a>
                     <div class="header__nestedName"><h1 class="innerNest">PAUL DIGEROLAMO</h1></div>
-                    <a href="portfolio.php" class="header__menuButton midButton">Designs</a>
+                    <a href="designs.php" class="header__menuButton midButton">Designs</a>
                     <a href="resume.php" class="header__menuButton">Resume</a>
                 </div>
                 <button class="header__hamburger"><img class="header__hamburger" src="media/menuButton.png" alt="site menu" /></button>

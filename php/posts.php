@@ -1,3 +1,5 @@
+<a href="accountSettings.php" class="all designs school fadeIn"><img class="blog__icon" src="media/main.png" alt="post icon" /></a>
+<a href="progrecipes.php" class="all designs school fadeIn"><img class="blog__icon" src="media/prog1.jpg" alt="post icon" /></a>
 <a href="marble.php" class="all games editing wip fadeIn"><img class="blog__icon" src="media/marbleFeat.jpg" alt="post icon" /></a>
 <a href="artnews.php" class="all school designs fadeIn"><img class="blog__icon" src="media/artnewsFeat.jpg" alt="post icon" /></a>
 <a href="plasticplanet.php" class="all music art animation editing fadeIn"><img class="blog__icon" src="media/plasticplanet.png" alt="post icon" /></a>
